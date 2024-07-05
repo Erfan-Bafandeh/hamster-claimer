@@ -1,5 +1,5 @@
 ## hamster-claimer
-# how use this program?
+> ## how use this program?
 Step by step:
 
 1. Open Telegram.
@@ -15,8 +15,9 @@ When you see the error, one of these two scenarios may occur:
 2. The URL, in addition to the one mentioned above, also has additional characters after it and is longer.
 
 If you encounter the first scenario, repeat this process. If you encounter the second scenario, save the received URL in the variable `url`.
-
-### changes:
+> ## changes:
 token variable, urls variable, admins variable.
 
-<url href="t.me/User_EnBh">fix bugs</url>
+> ## Social Media:
+<a href="https://t.me/persian_py">TELEGRAM CHANNEL</a><br>
+<a href="https://t.me/User_EnBh">TELEGRAM SUPPORT</a>
