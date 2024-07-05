@@ -72,4 +72,4 @@ for url in urls:
     for admin in admins:
         send_message(admin, f"name: {name} ({level})\n\nPPH: {pph}\n\nclaim: {value}\n\nbalance: {balance}")
 
-    web.close()
+web.close()
