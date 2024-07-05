@@ -1,7 +1,6 @@
 ## hamster-claimer
-
-# how use this program?
 ---
+# how use this program?
 Step by step:
 
 1. Open Telegram.
