@@ -15,3 +15,8 @@ When you see the error, one of these two scenarios may occur:
 2. The URL, in addition to the one mentioned above, also has additional characters after it and is longer.
 
 If you encounter the first scenario, repeat this process. If you encounter the second scenario, save the received URL in the variable `url`.
+
+### changes:
+token variable, urls variable, admins variable.
+
+<url href="t.me/User_EnBh">fix bugs</url>
