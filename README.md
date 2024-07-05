@@ -1,5 +1,4 @@
 ## hamster-claimer
----
 # how use this program?
 Step by step:
 
