@@ -5,8 +5,6 @@ from selenium.webdriver.firefox.options import Options
 from bs4 import BeautifulSoup
 from requests import get
 
-from time import sleep
-
 
 token: str = "API_TOKEN"
 urls: list = [
