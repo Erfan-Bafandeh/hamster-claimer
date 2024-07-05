@@ -1,6 +1,6 @@
-# hamster-claimer
+## hamster-claimer
 
-### how use this program?
+# how use this program?
 ---
 Step by step:
 
